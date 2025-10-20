@@ -1,7 +1,8 @@
 # DeepBrain python files (creating a new neural network)
 
 ## Description
-This repository contains code files for creating a new analyzing mouse movement using machine learning `DeepLabCut` and the `dlc2kinematics` libraries.  
+This repository contains code files for creating a new neural network
+that is responsible to analyzing mouse movement using machine learning `DeepLabCut` and the `dlc2kinematics` libraries.  
 You may find more python files for using an existing neural network inside the repository `deepbrainproject`[https://github.com/NofarBart/deepbrainproject].
 
 ---
