@@ -7,6 +7,8 @@ You may find more python files for using an existing neural network inside the r
 ---
 
 ## Repository Structure
+
+```
 deeplabcut_python/
 │
 ├── videos/ # contains example video(s) for analysis
@@ -22,3 +24,5 @@ deeplabcut_python/
 ├── say_yes.bat
 ├── time_in_each_roi.py
 └── README.md # This file
+
+```
